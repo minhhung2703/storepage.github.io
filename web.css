@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.content-sp{
+    font-size: 30px;
+    margin-left: 3rem;
+}
+
+.both-card {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.card + .card {
+    margin-left: 7rem;
+}
+
+.btn-primary{
+    width: 100%;
+}
+
+.footer{
+    margin-left: 10em;
+    display: flex;
+}
+
+.footer-c1 p {
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+
+.footer-c1 {
+    margin-right: 10rem;
+}
+
+span{
+    margin-left: 2rem;
+    font-size: 19px;
+}
